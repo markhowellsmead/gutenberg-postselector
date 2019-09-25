@@ -1,0 +1,25 @@
+{
+	"name": "@markhowellsmead/gutenberg-postselector",
+	"version": "1.0.0",
+	"description": "Single post selector for Gutenberg components.",
+	"main": "index.jsx",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/markhowellsmead/gutenberg-postselector.git"
+	},
+	"keywords": [
+		"scroll",
+		"offset",
+		"jquery",
+		"sayhellogmbh"
+	],
+	"author": "Mark Howells-Mead <mark@sayhello.ch>",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/markhowellsmead/gutenberg-postselector/issues"
+	},
+	"homepage": "https://github.com/markhowellsmead/gutenberg-postselector#readme"
+}
